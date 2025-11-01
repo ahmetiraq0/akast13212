@@ -1,0 +1,23 @@
+{
+  "name": "إدارة الأقساط",
+  "short_name": "الأقساط",
+  "description": "تطبيق ويب متكامل لإدارة أقساط العملاء للمتاجر والمعارض، مما يسهل تتبع المدفوعات، وإدارة بيانات العملاء، وإنشاء تقارير مالية.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F9FAFB",
+  "theme_color": "#0d9488",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/logo.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/logo.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
